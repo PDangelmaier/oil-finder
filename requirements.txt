@@ -1,0 +1,6 @@
+requests>=2.25.0
+dataclasses>=0.8; python_version < '3.7'
+typing>=3.7.4.1; python_version < '3.5'
+pydantic>=1.8.0
+pytest>=6.2.0
+
